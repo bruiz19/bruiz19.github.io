@@ -1,0 +1,64 @@
+<resources>
+
+    <string name="app_name">CSUF SPRING 2021 School Planner</string>
+
+    <string name="back_arrow_contentdesc">Back</string>
+
+    <string name="task_done_mark">Finished !</string>
+
+    <string name="general_cancel">Cancel</string>
+
+    <!-- Main Activity strings -->
+    <string name="due_soon">Due Soon</string>
+
+    <string name="my_tasks">My CSUF Tasks</string>
+    <string name="add_task_button">+ Add a Task</string>
+    <string name="completed_tasks_description">Finished</string>
+    <string name="tasks_description">Tasks</string>
+
+    <!-- Create Task Activity strings -->
+    <string name="create_task_headline">Add a Task!</string>
+    <string name="create_task_headline_editmode">Edit a Task!</string>
+
+    <string name="create_task_button">Task Add</string>
+    <string name="create_task_button_editmode">Save</string>
+
+    <string name="create_task_title_hint">Title (info...etc)</string>
+    <string name="create_task_description_hint">Description (more info...etc)</string>
+
+    <string name="create_task_subject_default_text">Select the Subject</string>
+    <string name="create_task_reminder_default_text">Select the Reminder</string>
+    <string name="create_task_dueat_date_default_text">Select the Due Date</string>
+
+    <string name="create_task_subject_alert_dialog_title">Subject:</string>
+    <string name="create_task_reminder_alert_dialog_title">Reminder:</string>
+
+    <string name="create_task_date_mustbeafternow_error">The chosen date cannot be a past date!</string>
+    <string name="create_task_reminder_mustbebefore_error">The reminder date cannot be a past date!</string>
+    <string name="create_task_reminder_mustselectdueatbefore_error">Please select due date first!</string>
+    <string name="create_task_edittext_isempty_error">Cannot leave blank!</string>
+    <string name="create_task_informationmissing_error">Please fill every section above!</string>
+
+    <!-- View Task Activity strings -->
+    <string name="view_task_edit_button_contentdesc">Edit Task</string>
+    <string name="view_task_headline">Tasks</string>
+    <string name="view_task_button_markcompleted">Mark as Completed</string>
+    <string name="view_task_button_completed">Done</string>
+
+    <string name="view_task_button_delete">Delete</string>
+    <string name="view_task_delete_alert_title">Delete Task</string>
+    <string name="view_task_delete_alert_message">Are you sure about deleting this task?</string>
+
+    <string name="view_task_subject_invalid">Invalid subject!</string>
+
+    <!-- ====== Subject names ====== -->
+    <string name="subject_biology">Biology</string>
+    <string name="subject_mathematics">Mathematics</string>
+    <string name="subject_english">English</string>
+    <string name="subject_physics">Physics</string>
+    <string name="subject_computerscience">Computer Science</string>
+    <string name="subject_ethnics">Ethics</string>
+    <string name="subject_chemistry">Chemistry</string>
+    <!-- ============================== -->
+
+</resources>
